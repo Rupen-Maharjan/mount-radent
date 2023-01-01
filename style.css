@@ -113,12 +113,8 @@ nav {
     margin: 10px 0;
 }
 
-#intro h3 {
-    margin: 20px 0 5px;
-}
-
 #intro p {
-    margin: 5px 10px;
+    margin: 5px 35px;
 }
 
 #aims {
@@ -126,6 +122,11 @@ nav {
     flex-direction: column;
     width: 100%;
 }
+
+#aims h3 {
+    margin: 20px 0 5px 30px;
+}
+
 
 /* intro image */
 
