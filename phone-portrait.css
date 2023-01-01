@@ -2,7 +2,10 @@
 header h1 {
   font-size: 15px;
   letter-spacing: normal;
+}
 
+header{
+  padding: 20px 0;
 }
 
 #logo {
@@ -35,6 +38,10 @@ header h1 {
 .box{
   padding: 20px 0;
   margin: 5px 0px;
+}
+
+.box p{
+  margin: 0 10px;
 }
 
 nav{
