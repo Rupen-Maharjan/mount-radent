@@ -16,6 +16,10 @@ header{
   height: 35px;
 }
 
+#intro h3{
+  margin: 20px 0 5px 10px;
+}
+
 /* introphoto */
 #intro-photo {
   display: flex;
